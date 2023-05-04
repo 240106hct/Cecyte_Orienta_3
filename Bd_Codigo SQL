@@ -1,0 +1,10 @@
+CREATE TABLE jugador(
+
+jugador_id int AUTO_INCREMENT ,
+Nombre varchar(18) not null,
+puntuacion_distancia int not null,
+nivel int not null,
+descripcion_jugador text null,
+
+    
+)
